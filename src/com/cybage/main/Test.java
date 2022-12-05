@@ -6,7 +6,7 @@ public class Test {
 		System.out.println("Hi This is a Test Demo");
 		System.out.println("Hi I am Ritesh Added Repo");
 		System.out.println("Hi I am Anupam Added Response for Ritesh Bro");
-		System.out.println("Added from cybage");
+		System.out.println("Added from cybage machine");
 	}
 
 }
