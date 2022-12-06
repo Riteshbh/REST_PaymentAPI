@@ -8,7 +8,7 @@ public class Test {
 		System.out.println("Hi I am Anupam Added Response for Ritesh Bro");
 		System.out.println("Added from cybage machine");
 		System.out.println("Test2");
-		System.out.println("Hi from prasad");
+		System.out.println("Hi from sts");
 	}
 
 }
